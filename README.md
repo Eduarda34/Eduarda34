@@ -1,6 +1,6 @@
 #### 👋 Hi! I'm Eduarda Araújo
 
-#### 👩‍💻 Informatics and Computer Engineering Student @ FEUP (2/5)
+#### 👩‍💻 Informatics and Computer Engineering Student @ FEUP
 
 <!--
 **Eduarda34/Eduarda34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
